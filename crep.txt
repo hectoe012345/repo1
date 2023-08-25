@@ -1,4 +1,4 @@
-SUBJECT -1: DIGITAL LOGIC AND CIRCUITS
+SUBJECT -1: DIGITAL LOGIC AND CIRCUITSyyyyys
 Boolean Algebra, Logic Gates, Number Representation , Minimization , Multiplexers, Decoders, Encoders, Shift Registers, Minimization. Number representations and computer arithmetic (fixed and floating point), Combinational and sequential circuits.
 
 
